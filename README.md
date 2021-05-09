@@ -7,9 +7,9 @@ This repository contains template files of README and LISENCE.
 [Language]
 Golang
 
-[Installation]
-Execute command bellow:
-go get "github.com/kurihara-hiroaki/template"
+>[Installation]
+>Execute command bellow:
+>go get "github.com/kurihara-hiroaki/template"
 
 [Usage]
 In your project sorce code, add code bellow:
