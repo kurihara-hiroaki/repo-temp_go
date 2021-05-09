@@ -8,11 +8,11 @@ Golang
 
 1. **Installation**  
 Execute command bellow:  
-$ go get "github.com/kurihara-hiroaki/repository-template"
+$ go get "github.com/kurihara-hiroaki/repo-temp_go"
 
 1. **Usage**  
 In your project sorce code, add code bellow:  
-import "github.com/kurihara-hiroaki/repository-template"
+import "github.com/kurihara-hiroaki/repo-temp_go"
 
 1. **Sample code**  
 sample/main.go
