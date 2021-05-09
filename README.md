@@ -8,11 +8,11 @@ Golang
 
 1. **Installation**  
 Execute command bellow:  
-$ go get "github.com/kurihara-hiroaki/template"
+$ go get "github.com/kurihara-hiroaki/repository-template"
 
 1. **Usage**  
 In your project sorce code, add code bellow:  
-import "github.com/kurihara-hiroaki/template"
+import "github.com/kurihara-hiroaki/repository-template"
 
 1. **Sample code**  
 sample/main.go
