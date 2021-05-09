@@ -19,8 +19,8 @@ sample/main.go
 
 1. **Declared identifier**  
     1. **Function**  
-F1(type1 arg1, type2 arg2) -> file1.go  
-F2(type1 arg1, type2 arg2) -> file2.go
+F1(arg1 type1, arg2 type2) -> file1.go  
+F2(arg1 type1, arg2 type2) -> file2.go
 
     1. **Struct**  
 T1 -> file1.go  
@@ -31,9 +31,9 @@ I1 -> file1.go
 I2 -> file2.go
 
     1. **Variable**  
-type1 V1 -> file1.go  
-type2 V2 -> file2.go
+V1 type1 -> file1.go  
+V2 type2 -> file2.go
 
     1. **Constant**  
-type1 C1 -> file1.go  
-type2 C2 -> file2.go
+C1 type1 -> file1.go  
+C2 type2 -> file2.go
